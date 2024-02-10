@@ -1,0 +1,1568 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="739.878438pt" height="654.03125pt" viewBox="0 0 739.878438 654.03125" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-01-17T20:21:40.356214</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 654.03125 
+L 739.878438 654.03125 
+L 739.878438 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 63.078438 513.75 
+L 732.678437 513.75 
+L 732.678437 14.79 
+L 63.078438 14.79 
+z
+" style="fill: #eaeaf2"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <!-- NF54 -->
+      <g style="fill: #262626" transform="translate(91.422813 523.25) rotate(-270) scale(0.22 -0.22)">
+       <defs>
+        <path id="Candara-Light-4e" d="M 1278 3653 
+Q 2541 1850 2944 1209 
+Q 3347 569 3366 513 
+L 3378 513 
+Q 3347 1209 3347 1888 
+L 3347 2734 
+Q 3347 3584 3328 4072 
+L 3603 4072 
+Q 3566 3356 3566 2022 
+Q 3566 1419 3572 955 
+Q 3578 491 3603 0 
+L 3425 0 
+Q 3419 0 3000 653 
+Q 2581 1306 2253 1784 
+L 1538 2828 
+L 1303 3172 
+Q 1147 3397 1065 3519 
+Q 984 3641 953 3700 
+L 941 3700 
+Q 966 2959 966 2350 
+Q 966 2066 959 1541 
+L 956 834 
+Q 956 325 972 0 
+L 697 0 
+Q 750 1206 750 2144 
+Q 750 3091 697 4072 
+L 991 4072 
+Q 991 4063 1106 3900 
+L 1278 3653 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-46" d="M 2931 3816 
+Q 2306 3841 978 3841 
+Q 991 3172 991 2163 
+Q 1891 2163 2438 2188 
+L 2438 1919 
+Q 2150 1934 1853 1937 
+Q 1556 1941 991 1941 
+Q 991 966 997 570 
+Q 1003 175 1025 0 
+L 697 0 
+L 719 653 
+Q 756 1597 756 2144 
+Q 756 2572 743 2940 
+Q 731 3309 709 3803 
+L 697 4072 
+L 2950 4072 
+L 2931 3816 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-35" d="M 916 3084 
+Q 856 2591 822 2252 
+Q 788 1913 788 1709 
+Q 1869 1694 2333 1419 
+Q 2797 1144 2797 525 
+Q 2797 72 2490 -311 
+Q 2184 -694 1657 -912 
+Q 1131 -1131 544 -1147 
+L 469 -922 
+Q 1363 -875 1939 -511 
+Q 2516 -147 2516 428 
+Q 2516 859 2302 1076 
+Q 2088 1294 1681 1370 
+Q 1275 1447 513 1447 
+Q 672 2791 672 3297 
+L 2472 3297 
+L 2456 3016 
+Q 1734 3084 916 3084 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-34" d="M 2503 550 
+L 2500 -128 
+Q 2500 -609 2516 -1031 
+L 2216 -1031 
+Q 2253 -444 2253 550 
+L 341 550 
+L 281 716 
+Q 281 759 484 1036 
+Q 688 1313 1056 1800 
+L 1191 1978 
+Q 1244 2053 1703 2656 
+Q 2163 3259 2163 3297 
+L 2528 3297 
+Q 2516 3128 2509 2290 
+Q 2503 1453 2503 769 
+Q 2797 769 3103 806 
+L 3047 550 
+L 2503 550 
+z
+M 1409 1919 
+Q 1328 1813 939 1302 
+Q 550 791 550 763 
+L 550 750 
+Q 1381 750 2253 769 
+Q 2253 2284 2266 3059 
+L 2247 3059 
+Q 2222 3013 2101 2845 
+Q 1981 2678 1600 2172 
+L 1409 1919 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Candara-Light-4e"/>
+       <use xlink:href="#Candara-Light-46" x="67.1875"/>
+       <use xlink:href="#Candara-Light-35" x="115.869141"/>
+       <use xlink:href="#Candara-Light-34" x="166.748047"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <!-- KOP230P -->
+      <g style="fill: #262626" transform="translate(158.382812 523.25) rotate(-270) scale(0.22 -0.22)">
+       <defs>
+        <path id="Candara-Light-4b" d="M 2347 1200 
+Q 1841 1791 1575 1986 
+Q 1309 2181 1100 2181 
+L 991 2181 
+Q 991 1081 1025 0 
+L 697 0 
+Q 722 644 736 1131 
+Q 750 1619 750 2144 
+Q 750 3091 697 4072 
+L 1025 4072 
+Q 991 3422 991 2388 
+L 1075 2388 
+Q 1325 2388 2119 3181 
+Q 2913 3975 2913 4072 
+L 3291 4072 
+Q 3291 4031 3120 3881 
+Q 2950 3731 2378 3148 
+Q 1806 2566 1466 2338 
+L 1466 2316 
+Q 1672 2269 1936 2025 
+Q 2200 1781 2797 1094 
+Q 3700 63 3700 0 
+L 3347 0 
+Q 3338 28 3008 422 
+Q 2678 816 2347 1200 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-4f" d="M 2169 -128 
+Q 1466 -128 916 415 
+Q 366 959 366 1978 
+Q 366 2953 928 3547 
+Q 1491 4141 2247 4141 
+Q 2984 4141 3520 3583 
+Q 4056 3025 4056 2088 
+Q 4056 1063 3495 467 
+Q 2934 -128 2169 -128 
+z
+M 2156 3928 
+Q 1753 3928 1387 3664 
+Q 1022 3400 828 2958 
+Q 634 2516 634 1978 
+Q 634 1063 1120 573 
+Q 1606 84 2266 84 
+Q 2853 84 3320 621 
+Q 3788 1159 3788 2028 
+Q 3788 2956 3313 3442 
+Q 2838 3928 2156 3928 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-50" d="M 1613 4088 
+Q 1709 4088 1825 4091 
+Q 2472 4091 2864 3852 
+Q 3256 3613 3256 3103 
+Q 3256 2453 2756 2093 
+Q 2256 1734 1478 1734 
+Q 1200 1734 1075 1741 
+L 997 1741 
+Q 997 1194 1003 786 
+Q 1009 378 1038 0 
+L 697 0 
+Q 763 1206 763 2144 
+Q 763 3131 709 4072 
+L 1088 4072 
+Q 1253 4072 1447 4081 
+L 1613 4088 
+z
+M 2988 3041 
+Q 2988 3478 2697 3668 
+Q 2406 3859 1772 3859 
+Q 1259 3859 984 3841 
+Q 997 3559 997 1966 
+Q 1088 1959 1409 1959 
+Q 2166 1959 2577 2243 
+Q 2988 2528 2988 3041 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-32" d="M 313 0 
+L 378 256 
+L 506 353 
+Q 853 613 1170 891 
+Q 1488 1169 1752 1553 
+Q 2016 1938 2016 2322 
+Q 2016 2675 1770 2873 
+Q 1525 3072 1075 3072 
+Q 900 3072 673 3051 
+Q 447 3031 359 3003 
+L 428 3272 
+Q 522 3297 701 3312 
+Q 881 3328 1075 3328 
+Q 1625 3328 1958 3076 
+Q 2291 2825 2291 2400 
+Q 2291 1781 1836 1267 
+Q 1381 753 647 213 
+L 647 206 
+Q 1731 206 2528 244 
+L 2472 0 
+L 313 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-33" d="M 2553 2497 
+Q 2553 2138 2376 1913 
+Q 2200 1688 1791 1556 
+L 1791 1544 
+Q 2209 1447 2470 1192 
+Q 2731 938 2731 488 
+Q 2731 -219 2025 -692 
+Q 1319 -1166 341 -1222 
+L 244 -972 
+Q 1222 -919 1836 -562 
+Q 2450 -206 2450 397 
+Q 2450 756 2306 962 
+Q 2163 1169 1864 1278 
+Q 1566 1388 763 1388 
+L 813 1625 
+Q 1250 1625 1612 1704 
+Q 1975 1784 2129 1973 
+Q 2284 2163 2284 2400 
+Q 2284 2753 2067 2909 
+Q 1850 3066 1356 3066 
+Q 859 3066 459 2963 
+L 481 3231 
+Q 863 3328 1403 3328 
+Q 1916 3328 2234 3112 
+Q 2553 2897 2553 2497 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-30" d="M 475 1625 
+Q 475 2275 851 2783 
+Q 1228 3291 1844 3291 
+Q 2447 3291 2798 2819 
+Q 3150 2347 3150 1716 
+Q 3150 994 2783 484 
+Q 2416 -25 1766 -25 
+Q 1169 -25 822 459 
+Q 475 944 475 1625 
+z
+M 744 1672 
+Q 744 1031 1053 607 
+Q 1363 184 1831 184 
+Q 2341 184 2611 611 
+Q 2881 1038 2881 1663 
+Q 2881 2200 2589 2639 
+Q 2297 3078 1784 3078 
+Q 1284 3078 1014 2639 
+Q 744 2200 744 1672 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Candara-Light-4b"/>
+       <use xlink:href="#Candara-Light-4f" x="59.521484"/>
+       <use xlink:href="#Candara-Light-50" x="128.613281"/>
+       <use xlink:href="#Candara-Light-32" x="183.691406"/>
+       <use xlink:href="#Candara-Light-33" x="228.173828"/>
+       <use xlink:href="#Candara-Light-30" x="278.271484"/>
+       <use xlink:href="#Candara-Light-50" x="334.667969"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <!-- KOPfs25 -->
+      <g style="fill: #262626" transform="translate(225.342812 523.25) rotate(-270) scale(0.22 -0.22)">
+       <defs>
+        <path id="Candara-Light-66" d="M 1984 4172 
+Q 1788 4225 1600 4225 
+Q 1256 4225 1137 3933 
+Q 1019 3641 1019 2900 
+Q 1284 2900 1966 2931 
+L 1953 2663 
+Q 1203 2681 1019 2681 
+Q 1019 1131 1050 0 
+L 722 0 
+Q 763 944 763 2681 
+Q 569 2681 0 2663 
+L 19 2925 
+L 294 2916 
+Q 638 2900 763 2900 
+Q 763 3581 844 3887 
+Q 925 4194 1126 4341 
+Q 1328 4488 1656 4488 
+Q 1797 4488 2053 4434 
+L 1984 4172 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-73" d="M 347 103 
+L 416 397 
+Q 625 300 873 256 
+Q 1122 213 1441 213 
+Q 1741 213 1914 356 
+Q 2088 500 2088 728 
+Q 2088 916 1997 1059 
+Q 1906 1203 1581 1333 
+Q 1256 1463 978 1591 
+Q 700 1719 567 1898 
+Q 434 2078 434 2309 
+Q 434 2647 703 2844 
+Q 972 3041 1381 3041 
+Q 1828 3041 2222 2925 
+L 2150 2663 
+Q 1841 2791 1350 2791 
+Q 1044 2791 864 2653 
+Q 684 2516 684 2316 
+Q 684 2088 875 1959 
+Q 1066 1831 1516 1648 
+Q 1966 1466 2152 1281 
+Q 2338 1097 2338 769 
+Q 2338 378 2075 164 
+Q 1813 -50 1350 -50 
+Q 828 -50 347 103 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Candara-Light-4b"/>
+       <use xlink:href="#Candara-Light-4f" x="59.521484"/>
+       <use xlink:href="#Candara-Light-50" x="128.613281"/>
+       <use xlink:href="#Candara-Light-66" x="183.691406"/>
+       <use xlink:href="#Candara-Light-73" x="215.380859"/>
+       <use xlink:href="#Candara-Light-32" x="257.275391"/>
+       <use xlink:href="#Candara-Light-35" x="301.757812"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <!-- KOEBA140 -->
+      <g style="fill: #262626" transform="translate(292.302812 523.25) rotate(-270) scale(0.22 -0.22)">
+       <defs>
+        <path id="Candara-Light-45" d="M 697 0 
+L 719 653 
+Q 756 1597 756 2144 
+Q 756 2713 728 3372 
+Q 700 4031 697 4072 
+L 2913 4072 
+L 2900 3816 
+Q 2209 3841 978 3841 
+Q 991 3147 991 2253 
+Q 1972 2253 2528 2291 
+L 2528 2009 
+Q 1784 2041 991 2041 
+L 991 1350 
+Q 991 678 1006 225 
+Q 2159 225 3109 275 
+L 3097 0 
+L 697 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-42" d="M 697 0 
+L 719 653 
+Q 756 1597 756 2144 
+Q 756 2466 747 2827 
+Q 738 3188 722 3603 
+L 703 4072 
+L 966 4072 
+Q 1113 4072 1325 4081 
+L 1531 4088 
+Q 1650 4088 1791 4091 
+Q 2409 4091 2718 3867 
+Q 3028 3644 3028 3200 
+Q 3028 2859 2851 2604 
+Q 2675 2350 2394 2228 
+L 2394 2209 
+Q 2806 2163 3057 1914 
+Q 3309 1666 3309 1272 
+Q 3309 650 2821 315 
+Q 2334 -19 1538 -19 
+Q 1381 -19 697 0 
+z
+M 972 3841 
+Q 984 3784 987 3418 
+Q 991 3053 991 2322 
+Q 1119 2316 1516 2316 
+L 1650 2313 
+Q 2059 2313 2404 2473 
+Q 2750 2634 2772 3128 
+Q 2772 3497 2528 3678 
+Q 2284 3859 1766 3859 
+Q 1453 3859 1223 3850 
+Q 994 3841 972 3841 
+z
+M 991 2075 
+L 988 1150 
+Q 988 563 1006 244 
+Q 1169 206 1497 206 
+Q 2209 206 2631 453 
+Q 3053 700 3053 1191 
+Q 3053 1625 2708 1862 
+Q 2363 2100 1594 2100 
+Q 1350 2100 1231 2095 
+Q 1113 2091 991 2075 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-41" d="M 916 1484 
+Q 628 816 497 459 
+Q 366 103 366 0 
+L 31 0 
+Q 31 100 901 1984 
+Q 1772 3869 1772 4072 
+L 2125 4072 
+Q 2125 3888 2983 2027 
+Q 3841 166 3841 0 
+L 3519 0 
+Q 3519 203 2956 1484 
+L 916 1484 
+z
+M 1947 3816 
+L 1919 3816 
+Q 1919 3725 991 1691 
+L 2859 1691 
+Q 2397 2772 2172 3267 
+Q 1947 3763 1947 3816 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-31" d="M 1306 2925 
+L 403 2350 
+L 288 2522 
+L 1434 3353 
+L 1588 3353 
+Q 1556 2547 1556 1441 
+Q 1556 650 1588 0 
+L 1288 0 
+Q 1331 484 1331 1441 
+Q 1331 2747 1306 2925 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Candara-Light-4b"/>
+       <use xlink:href="#Candara-Light-4f" x="59.521484"/>
+       <use xlink:href="#Candara-Light-45" x="128.613281"/>
+       <use xlink:href="#Candara-Light-42" x="180.126953"/>
+       <use xlink:href="#Candara-Light-41" x="237.548828"/>
+       <use xlink:href="#Candara-Light-31" x="298.046875"/>
+       <use xlink:href="#Candara-Light-34" x="334.667969"/>
+       <use xlink:href="#Candara-Light-30" x="387.548828"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="text_5">
+      <!-- KOEBA175 -->
+      <g style="fill: #262626" transform="translate(359.262812 523.25) rotate(-270) scale(0.22 -0.22)">
+       <defs>
+        <path id="Candara-Light-37" d="M 1325 -128 
+L 1166 -413 
+Q 991 -722 920 -853 
+Q 850 -984 850 -1031 
+L 550 -966 
+Q 550 -900 673 -673 
+Q 797 -447 1084 22 
+L 1266 322 
+Q 1647 959 2019 1762 
+Q 2391 2566 2425 3041 
+Q 1306 3041 281 3016 
+L 288 3297 
+L 2731 3297 
+Q 2731 2897 2434 2119 
+Q 2138 1341 1325 -128 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Candara-Light-4b"/>
+       <use xlink:href="#Candara-Light-4f" x="59.521484"/>
+       <use xlink:href="#Candara-Light-45" x="128.613281"/>
+       <use xlink:href="#Candara-Light-42" x="180.126953"/>
+       <use xlink:href="#Candara-Light-41" x="237.548828"/>
+       <use xlink:href="#Candara-Light-31" x="298.046875"/>
+       <use xlink:href="#Candara-Light-37" x="334.667969"/>
+       <use xlink:href="#Candara-Light-35" x="382.763672"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="text_6">
+      <!-- KOEBA181 -->
+      <g style="fill: #262626" transform="translate(426.222812 523.25) rotate(-270) scale(0.22 -0.22)">
+       <defs>
+        <path id="Candara-Light-38" d="M 1784 -50 
+Q 1241 -50 858 275 
+Q 475 600 475 1119 
+Q 475 1466 748 1792 
+Q 1022 2119 1484 2322 
+L 1484 2338 
+Q 1081 2572 901 2803 
+Q 722 3034 722 3347 
+Q 722 3750 1030 4009 
+Q 1338 4269 1813 4269 
+Q 2309 4269 2598 4034 
+Q 2888 3800 2888 3384 
+Q 2888 3091 2700 2820 
+Q 2513 2550 2119 2356 
+L 2119 2344 
+Q 2622 2063 2886 1763 
+Q 3150 1463 3150 1153 
+Q 3150 628 2756 289 
+Q 2363 -50 1784 -50 
+z
+M 1806 4050 
+Q 1466 4050 1231 3884 
+Q 997 3719 997 3431 
+Q 997 3150 1219 2898 
+Q 1441 2647 1863 2456 
+Q 2222 2625 2426 2851 
+Q 2631 3078 2631 3391 
+Q 2631 3675 2414 3862 
+Q 2197 4050 1806 4050 
+z
+M 1831 166 
+Q 2216 166 2545 412 
+Q 2875 659 2875 1031 
+Q 2875 1353 2617 1625 
+Q 2359 1897 1728 2222 
+Q 1366 2100 1055 1770 
+Q 744 1441 744 1113 
+Q 744 684 1050 425 
+Q 1356 166 1831 166 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Candara-Light-4b"/>
+       <use xlink:href="#Candara-Light-4f" x="59.521484"/>
+       <use xlink:href="#Candara-Light-45" x="128.613281"/>
+       <use xlink:href="#Candara-Light-42" x="180.126953"/>
+       <use xlink:href="#Candara-Light-41" x="237.548828"/>
+       <use xlink:href="#Candara-Light-31" x="298.046875"/>
+       <use xlink:href="#Candara-Light-38" x="334.667969"/>
+       <use xlink:href="#Candara-Light-31" x="391.064453"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="text_7">
+      <!-- KORH1 -->
+      <g style="fill: #262626" transform="translate(493.182812 523.25) rotate(-270) scale(0.22 -0.22)">
+       <defs>
+        <path id="Candara-Light-52" d="M 1531 4088 
+Q 1713 4088 1825 4091 
+Q 2475 4091 2801 3844 
+Q 3128 3597 3128 3109 
+Q 3128 2722 2922 2440 
+Q 2716 2159 2350 2003 
+L 2350 1984 
+Q 2716 1884 2983 1415 
+Q 3250 947 3597 0 
+L 3316 0 
+Q 3100 572 2873 1030 
+Q 2647 1488 2486 1623 
+Q 2325 1759 2187 1807 
+Q 2050 1856 1600 1856 
+Q 1159 1856 997 1850 
+Q 997 556 1038 0 
+L 697 0 
+Q 728 638 745 1119 
+Q 763 1600 763 2144 
+Q 763 3178 709 4072 
+L 1075 4072 
+L 1531 4088 
+z
+M 1678 2088 
+Q 2206 2088 2529 2352 
+Q 2853 2616 2853 3047 
+Q 2853 3484 2575 3671 
+Q 2297 3859 1650 3859 
+Q 1266 3859 984 3841 
+Q 997 3619 997 3241 
+Q 997 2916 994 2738 
+L 991 2094 
+Q 1056 2088 1222 2088 
+L 1678 2088 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-48" d="M 3144 0 
+Q 3175 1250 3175 2041 
+L 991 2041 
+Q 991 1103 1025 0 
+L 697 0 
+Q 750 1391 750 2144 
+Q 750 3016 697 4072 
+L 1025 4072 
+Q 991 3328 991 2241 
+L 3175 2241 
+Q 3175 3156 3138 4072 
+L 3463 4072 
+Q 3413 3078 3413 2144 
+Q 3413 1066 3463 0 
+L 3144 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Candara-Light-4b"/>
+       <use xlink:href="#Candara-Light-4f" x="59.521484"/>
+       <use xlink:href="#Candara-Light-52" x="128.613281"/>
+       <use xlink:href="#Candara-Light-48" x="190.136719"/>
+       <use xlink:href="#Candara-Light-31" x="255.224609"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="text_8">
+      <!-- KORH2a -->
+      <g style="fill: #262626" transform="translate(560.142812 523.25) rotate(-270) scale(0.22 -0.22)">
+       <defs>
+        <path id="Candara-Light-61" d="M 2350 319 
+Q 1934 -78 1300 -78 
+Q 825 -78 569 133 
+Q 313 344 313 750 
+Q 313 1259 752 1534 
+Q 1191 1809 2350 1819 
+Q 2363 1931 2363 2041 
+Q 2363 2469 2119 2636 
+Q 1875 2803 1453 2803 
+Q 953 2803 447 2675 
+L 488 2944 
+Q 966 3072 1466 3072 
+Q 2006 3072 2309 2848 
+Q 2613 2625 2613 2106 
+Q 2613 1938 2595 1614 
+Q 2578 1291 2578 972 
+Q 2578 513 2650 0 
+L 2400 -13 
+Q 2369 181 2369 319 
+L 2350 319 
+z
+M 2363 1600 
+Q 1538 1600 1066 1411 
+Q 594 1222 594 722 
+Q 594 166 1331 166 
+Q 1669 166 1930 266 
+Q 2191 366 2363 569 
+L 2363 1600 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Candara-Light-4b"/>
+       <use xlink:href="#Candara-Light-4f" x="59.521484"/>
+       <use xlink:href="#Candara-Light-52" x="128.613281"/>
+       <use xlink:href="#Candara-Light-48" x="190.136719"/>
+       <use xlink:href="#Candara-Light-32" x="255.224609"/>
+       <use xlink:href="#Candara-Light-61" x="299.707031"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="text_9">
+      <!-- KORH4 -->
+      <g style="fill: #262626" transform="translate(627.102812 523.25) rotate(-270) scale(0.22 -0.22)">
+       <use xlink:href="#Candara-Light-4b"/>
+       <use xlink:href="#Candara-Light-4f" x="59.521484"/>
+       <use xlink:href="#Candara-Light-52" x="128.613281"/>
+       <use xlink:href="#Candara-Light-48" x="190.136719"/>
+       <use xlink:href="#Candara-Light-34" x="255.224609"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="text_10">
+      <!-- Barseq -->
+      <g style="fill: #262626" transform="translate(694.062812 523.25) rotate(-270) scale(0.22 -0.22)">
+       <defs>
+        <path id="Candara-Light-72" d="M 2106 2694 
+Q 1856 2797 1581 2797 
+Q 1291 2797 1077 2631 
+Q 863 2466 763 2150 
+Q 763 681 788 0 
+L 481 0 
+Q 513 856 513 1538 
+Q 513 2247 391 2963 
+L 666 3034 
+Q 738 2663 744 2528 
+L 781 2528 
+Q 975 2803 1173 2937 
+Q 1372 3072 1588 3072 
+Q 1834 3072 2188 2969 
+L 2106 2694 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-65" d="M 647 1563 
+Q 647 956 1020 561 
+Q 1394 166 2028 166 
+Q 2509 166 2828 263 
+L 2784 13 
+Q 2688 -19 2484 -48 
+Q 2281 -78 2053 -78 
+Q 1225 -78 808 358 
+Q 391 794 391 1434 
+Q 391 1775 473 2065 
+Q 556 2356 722 2597 
+Q 1116 3109 1734 3109 
+Q 2291 3109 2598 2750 
+Q 2906 2391 2906 1863 
+Q 2906 1691 2894 1588 
+L 647 1563 
+z
+M 666 1784 
+L 2625 1784 
+Q 2625 2313 2397 2597 
+Q 2169 2881 1722 2881 
+Q 1306 2881 1023 2601 
+Q 741 2322 666 1784 
+z
+" transform="scale(0.015625)"/>
+        <path id="Candara-Light-71" d="M 2719 331 
+Q 2581 153 2297 37 
+Q 2013 -78 1678 -78 
+Q 1106 -78 751 348 
+Q 397 775 397 1403 
+Q 397 2128 801 2606 
+Q 1206 3084 1863 3084 
+Q 2484 3084 2784 2853 
+L 2791 2853 
+L 2931 2969 
+L 3053 2981 
+Q 3009 1684 3009 897 
+Q 3009 53 3059 -1422 
+L 2725 -1422 
+Q 2741 -1050 2744 -617 
+Q 2747 -184 2747 331 
+L 2719 331 
+z
+M 2731 2591 
+Q 2566 2731 2372 2795 
+Q 2178 2859 1913 2859 
+Q 1322 2859 1009 2470 
+Q 697 2081 697 1428 
+Q 697 834 990 509 
+Q 1284 184 1806 184 
+Q 2131 184 2357 295 
+Q 2584 406 2753 628 
+Q 2753 1203 2750 1690 
+Q 2747 2178 2731 2591 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Candara-Light-42"/>
+       <use xlink:href="#Candara-Light-61" x="57.421875"/>
+       <use xlink:href="#Candara-Light-72" x="106.542969"/>
+       <use xlink:href="#Candara-Light-73" x="138.964844"/>
+       <use xlink:href="#Candara-Light-65" x="180.859375"/>
+       <use xlink:href="#Candara-Light-71" x="232.275391"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_11">
+     <!--   -->
+     <g style="fill: #262626" transform="translate(395.275937 641.47625) scale(0.24 -0.24)">
+      <defs>
+       <path id="Candara-Light-20" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Candara-Light-20"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <path d="M 63.078438 513.75 
+L 732.678437 513.75 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_12">
+      <!-- 0 -->
+      <g style="fill: #262626" transform="translate(41.1725 521.34) scale(0.22 -0.22)">
+       <use xlink:href="#Candara-Light-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <path d="M 63.078438 442.47 
+L 732.678437 442.47 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_13">
+      <!-- 2 -->
+      <g style="fill: #262626" transform="translate(43.791875 450.06) scale(0.22 -0.22)">
+       <use xlink:href="#Candara-Light-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <path d="M 63.078438 371.19 
+L 732.678437 371.19 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_14">
+      <!-- 4 -->
+      <g style="fill: #262626" transform="translate(41.945938 378.78) scale(0.22 -0.22)">
+       <use xlink:href="#Candara-Light-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <path d="M 63.078438 299.91 
+L 732.678437 299.91 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_15">
+      <!-- 6 -->
+      <g style="fill: #262626" transform="translate(40.945625 307.5) scale(0.22 -0.22)">
+       <defs>
+        <path id="Candara-Light-36" d="M 750 2034 
+Q 919 2263 1236 2398 
+Q 1553 2534 1894 2534 
+Q 2544 2534 2875 2192 
+Q 3206 1850 3206 1209 
+Q 3206 613 2815 236 
+Q 2425 -141 1813 -141 
+Q 1203 -141 839 351 
+Q 475 844 475 1631 
+Q 475 4038 2547 4197 
+L 2578 3981 
+Q 1725 3906 1281 3439 
+Q 838 2972 738 2034 
+L 750 2034 
+z
+M 2938 1147 
+Q 2938 1681 2639 1992 
+Q 2341 2303 1819 2303 
+Q 1538 2303 1219 2154 
+Q 900 2006 750 1784 
+Q 750 1047 1034 562 
+Q 1319 78 1875 78 
+Q 2350 78 2644 383 
+Q 2938 688 2938 1147 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Candara-Light-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5">
+      <path d="M 63.078438 228.63 
+L 732.678437 228.63 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_16">
+      <!-- 8 -->
+      <g style="fill: #262626" transform="translate(41.1725 236.22) scale(0.22 -0.22)">
+       <use xlink:href="#Candara-Light-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_6">
+      <path d="M 63.078438 157.35 
+L 732.678437 157.35 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_17">
+      <!-- 10 -->
+      <g style="fill: #262626" transform="translate(33.115 164.94) scale(0.22 -0.22)">
+       <use xlink:href="#Candara-Light-31"/>
+       <use xlink:href="#Candara-Light-30" x="36.621094"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_7">
+      <path d="M 63.078438 86.07 
+L 732.678437 86.07 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_18">
+      <!-- 12 -->
+      <g style="fill: #262626" transform="translate(35.734375 93.66) scale(0.22 -0.22)">
+       <use xlink:href="#Candara-Light-31"/>
+       <use xlink:href="#Candara-Light-32" x="36.621094"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_8">
+      <path d="M 63.078438 14.79 
+L 732.678437 14.79 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_19">
+      <!-- 14 -->
+      <g style="fill: #262626" transform="translate(33.888438 22.38) scale(0.22 -0.22)">
+       <use xlink:href="#Candara-Light-31"/>
+       <use xlink:href="#Candara-Light-34" x="36.621094"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_20">
+     <!-- Mean invasion rate -->
+     <g style="fill: #262626" transform="translate(23.76 359.01) rotate(-90) scale(0.24 -0.24)">
+      <defs>
+       <path id="Candara-Light-4d" d="M 4428 0 
+Q 4406 1022 4325 2158 
+Q 4244 3294 4228 3419 
+Q 4213 3544 4206 3675 
+L 4197 3675 
+L 3534 2100 
+Q 2956 719 2854 403 
+Q 2753 88 2753 0 
+L 2528 0 
+Q 2528 178 2193 1087 
+Q 1859 1997 1546 2872 
+Q 1234 3747 1191 3822 
+L 1172 3822 
+Q 1156 3016 1003 1659 
+Q 850 303 850 0 
+L 563 0 
+Q 613 253 792 1754 
+Q 972 3256 972 4072 
+L 1403 4072 
+Q 1403 4022 1567 3547 
+Q 1731 3072 2019 2269 
+L 2247 1631 
+Q 2494 950 2572 706 
+Q 2650 463 2650 378 
+L 2669 378 
+Q 2669 609 3356 2173 
+Q 4044 3738 4044 4072 
+L 4469 4072 
+Q 4469 3669 4562 2348 
+Q 4656 1028 4697 553 
+L 4744 0 
+L 4428 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Candara-Light-6e" d="M 831 2613 
+L 838 2613 
+Q 1350 3072 1856 3072 
+Q 2397 3072 2670 2840 
+Q 2944 2609 2944 2034 
+L 2941 1809 
+Q 2941 1756 2938 1650 
+Q 2938 1269 2941 1034 
+L 2944 0 
+L 2631 0 
+Q 2706 953 2706 1978 
+Q 2706 2459 2448 2637 
+Q 2191 2816 1784 2816 
+Q 1263 2816 831 2413 
+Q 825 2184 825 1631 
+Q 825 1225 828 863 
+L 834 200 
+Q 834 134 838 0 
+L 538 0 
+Q 594 1153 594 1538 
+Q 594 2163 469 2969 
+L 775 3034 
+L 831 2613 
+z
+" transform="scale(0.015625)"/>
+       <path id="Candara-Light-69" d="M 666 4141 
+Q 750 4141 803 4067 
+Q 856 3994 856 3897 
+Q 856 3784 800 3703 
+Q 744 3622 628 3622 
+Q 531 3622 473 3694 
+Q 416 3766 416 3866 
+Q 416 3972 483 4056 
+Q 550 4141 666 4141 
+z
+M 397 2944 
+L 750 3028 
+Q 716 2300 716 1381 
+Q 716 619 763 0 
+L 434 0 
+Q 481 756 481 1381 
+Q 481 2263 397 2944 
+z
+" transform="scale(0.015625)"/>
+       <path id="Candara-Light-76" d="M 1544 0 
+L 1394 0 
+Q 1394 116 1245 497 
+Q 1097 878 788 1538 
+L 669 1794 
+Q 422 2322 300 2600 
+Q 178 2878 178 2969 
+L 469 2969 
+Q 469 2809 980 1701 
+Q 1491 594 1491 441 
+L 1509 441 
+Q 1509 578 1740 1111 
+Q 1972 1644 2256 2230 
+Q 2541 2816 2541 2969 
+L 2841 2969 
+Q 2841 2875 2192 1537 
+Q 1544 200 1544 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Candara-Light-6f" d="M 1722 -122 
+Q 1156 -122 776 276 
+Q 397 675 397 1369 
+Q 397 2172 822 2637 
+Q 1247 3103 1863 3103 
+Q 2350 3103 2759 2729 
+Q 3169 2356 3169 1594 
+Q 3169 803 2742 340 
+Q 2316 -122 1722 -122 
+z
+M 1778 2894 
+Q 1203 2894 934 2451 
+Q 666 2009 666 1509 
+Q 666 884 972 487 
+Q 1278 91 1784 91 
+Q 2356 91 2631 534 
+Q 2906 978 2906 1472 
+Q 2906 2081 2593 2487 
+Q 2281 2894 1778 2894 
+z
+" transform="scale(0.015625)"/>
+       <path id="Candara-Light-74" d="M 2034 19 
+Q 1763 -63 1569 -63 
+Q 1022 -63 862 242 
+Q 703 547 703 1222 
+Q 703 2041 709 2681 
+Q 522 2681 128 2663 
+L 141 2919 
+Q 488 2900 738 2900 
+Q 738 3241 775 3803 
+L 1050 3822 
+Q 991 3100 991 2900 
+Q 1263 2900 1997 2931 
+L 1978 2663 
+Q 1334 2681 972 2681 
+Q 953 2134 953 1394 
+Q 953 581 1129 376 
+Q 1306 172 1631 172 
+Q 1722 172 1819 189 
+Q 1916 206 2059 244 
+L 2034 19 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Candara-Light-4d"/>
+      <use xlink:href="#Candara-Light-65" x="84.423828"/>
+      <use xlink:href="#Candara-Light-61" x="135.839844"/>
+      <use xlink:href="#Candara-Light-6e" x="184.960938"/>
+      <use xlink:href="#Candara-Light-20" x="238.378906"/>
+      <use xlink:href="#Candara-Light-69" x="260.058594"/>
+      <use xlink:href="#Candara-Light-6e" x="279.248047"/>
+      <use xlink:href="#Candara-Light-76" x="332.666016"/>
+      <use xlink:href="#Candara-Light-61" x="379.785156"/>
+      <use xlink:href="#Candara-Light-73" x="428.90625"/>
+      <use xlink:href="#Candara-Light-69" x="470.800781"/>
+      <use xlink:href="#Candara-Light-6f" x="489.990234"/>
+      <use xlink:href="#Candara-Light-6e" x="545.898438"/>
+      <use xlink:href="#Candara-Light-20" x="599.316406"/>
+      <use xlink:href="#Candara-Light-72" x="620.996094"/>
+      <use xlink:href="#Candara-Light-61" x="653.417969"/>
+      <use xlink:href="#Candara-Light-74" x="702.539062"/>
+      <use xlink:href="#Candara-Light-65" x="738.037109"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 83.166438 393.05507 
+L 109.950437 393.05507 
+L 109.950437 372.420563 
+L 83.166438 372.420563 
+L 83.166438 393.05507 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #98b196; stroke: #474747; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 150.126438 413.095158 
+L 176.910438 413.095158 
+L 176.910438 386.763235 
+L 150.126438 386.763235 
+L 150.126438 413.095158 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #d3bc98; stroke: #474747; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 217.086437 333.873369 
+L 243.870438 333.873369 
+L 243.870438 285.016254 
+L 217.086437 285.016254 
+L 217.086437 333.873369 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #ccad91; stroke: #474747; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 284.046437 438.32193 
+L 310.830438 438.32193 
+L 310.830438 423.565191 
+L 284.046437 423.565191 
+L 284.046437 438.32193 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #8fa9b0; stroke: #474747; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 351.006437 381.352091 
+L 377.790437 381.352091 
+L 377.790437 342.67485 
+L 351.006437 342.67485 
+L 351.006437 381.352091 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #627f8c; stroke: #474747; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 417.966437 343.467825 
+L 444.750437 343.467825 
+L 444.750437 276.385623 
+L 417.966437 276.385623 
+L 417.966437 343.467825 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #a6b9b8; stroke: #474747; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 484.926437 447.850776 
+L 511.710438 447.850776 
+L 511.710438 428.438875 
+L 484.926437 428.438875 
+L 484.926437 447.850776 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #bdbeb5; stroke: #474747; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 551.886437 359.897631 
+L 578.670437 359.897631 
+L 578.670437 327.241212 
+L 551.886437 327.241212 
+L 551.886437 359.897631 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #a7c0b3; stroke: #474747; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 618.846437 416.013244 
+L 645.630437 416.013244 
+L 645.630437 399.998257 
+L 618.846437 399.998257 
+L 618.846437 416.013244 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #dae1dd; stroke: #474747; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 685.806438 357.105515 
+L 712.590437 357.105515 
+L 712.590437 329.645425 
+L 685.806438 329.645425 
+L 685.806438 357.105515 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #bebebd; stroke: #474747; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #bebebd; stroke: #474747; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #8fa9b0; stroke: #474747; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #dae1dd; stroke: #474747; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #ccad91; stroke: #474747; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #a6b9b8; stroke: #474747; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #627f8c; stroke: #474747; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #a7c0b3; stroke: #474747; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #d3bc98; stroke: #474747; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #a7c0b3; stroke: #474747; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #bdbeb5; stroke: #474747; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+L 96.558437 513.75 
+z
+" clip-path="url(#p5fd259a6d0)" style="fill: #98b196; stroke: #474747; stroke-width: 0.75; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 96.558437 393.05507 
+L 96.558437 410.498842 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 96.558437 372.420563 
+L 96.558437 365.542927 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 89.862437 410.498842 
+L 103.254437 410.498842 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 89.862437 365.542927 
+L 103.254437 365.542927 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 163.518438 413.095158 
+L 163.518438 433.662053 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 163.518438 386.763235 
+L 163.518438 375.294087 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 156.822437 433.662053 
+L 170.214438 433.662053 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 156.822437 375.294087 
+L 170.214438 375.294087 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 230.478437 333.873369 
+L 230.478437 363.709884 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 230.478437 285.016254 
+L 230.478437 233.620618 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 223.782437 363.709884 
+L 237.174437 363.709884 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 223.782437 233.620618 
+L 237.174437 233.620618 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 297.438437 438.32193 
+L 297.438437 457.30863 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 297.438437 423.565191 
+L 297.438437 409.327166 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 290.742437 457.30863 
+L 304.134437 457.30863 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 290.742437 409.327166 
+L 304.134437 409.327166 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 364.398438 381.352091 
+L 364.398438 411.993797 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 364.398438 342.67485 
+L 364.398438 323.698398 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 357.702437 411.993797 
+L 371.094437 411.993797 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 357.702437 323.698398 
+L 371.094437 323.698398 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 431.358437 343.467825 
+L 431.358437 367.161182 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 431.358437 276.385623 
+L 431.358437 269.94441 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_31">
+    <path d="M 424.662438 367.161182 
+L 438.054437 367.161182 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 424.662438 269.94441 
+L 438.054437 269.94441 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 498.318437 447.850776 
+L 498.318437 452.483253 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 498.318437 428.438875 
+L 498.318437 414.179559 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 491.622437 452.483253 
+L 505.014437 452.483253 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 491.622437 414.179559 
+L 505.014437 414.179559 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 565.278437 359.897631 
+L 565.278437 365.326344 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_38">
+    <path d="M 565.278437 327.241212 
+L 565.278437 286.924819 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_39">
+    <path d="M 558.582437 365.326344 
+L 571.974437 365.326344 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_40">
+    <path d="M 558.582437 286.924819 
+L 571.974437 286.924819 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_41">
+    <path d="M 632.238437 416.013244 
+L 632.238437 436.181591 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_42">
+    <path d="M 632.238437 399.998257 
+L 632.238437 397.495541 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_43">
+    <path d="M 625.542437 436.181591 
+L 638.934437 436.181591 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_44">
+    <path d="M 625.542437 397.495541 
+L 638.934437 397.495541 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_45">
+    <path d="M 699.198437 357.105515 
+L 699.198437 383.325391 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_46">
+    <path d="M 699.198437 329.645425 
+L 699.198437 301.637613 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_47">
+    <path d="M 692.502437 383.325391 
+L 705.894437 383.325391 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_48">
+    <path d="M 692.502437 301.637613 
+L 705.894437 301.637613 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_49">
+    <path d="M 83.166438 384.600996 
+L 109.950437 384.600996 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_50">
+    <path d="M 150.126438 393.696119 
+L 176.910438 393.696119 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_51">
+    <path d="M 217.086437 321.951415 
+L 243.870438 321.951415 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_52">
+    <path d="M 284.046437 429.988688 
+L 310.830438 429.988688 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_53">
+    <path d="M 351.006437 359.893443 
+L 377.790437 359.893443 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_54">
+    <path d="M 417.966437 316.476996 
+L 444.750437 316.476996 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_55">
+    <path d="M 484.926437 436.164231 
+L 511.710438 436.164231 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_56">
+    <path d="M 551.886437 339.126454 
+L 578.670437 339.126454 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_57">
+    <path d="M 618.846437 407.627502 
+L 645.630437 407.627502 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_58">
+    <path d="M 685.806438 342.367748 
+L 712.590437 342.367748 
+" clip-path="url(#p5fd259a6d0)" style="fill: none; stroke: #474747; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 63.078438 513.75 
+L 63.078438 14.79 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 732.678437 513.75 
+L 732.678437 14.79 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 63.078437 513.75 
+L 732.678437 513.75 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 63.078437 14.79 
+L 732.678437 14.79 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_1"/>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5fd259a6d0">
+   <rect x="63.078438" y="14.79" width="669.6" height="498.96"/>
+  </clipPath>
+ </defs>
+</svg>
