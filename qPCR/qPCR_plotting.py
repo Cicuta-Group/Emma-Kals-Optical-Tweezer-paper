@@ -16,7 +16,7 @@ import warnings
 # Suppress all warnings
 warnings.filterwarnings("ignore")
 
-OUTPUT_FOLDER = r'C:\Users\Emma Jones\OneDrive - University of Cambridge\Documents\My work\cambridge\Year 2\Rayner lab\Data\qPCR\Code output'
+OUTPUT_FOLDER = 'Graphs'
 
 def get_output_folder(experiment):
     output_folder = os.path.join(OUTPUT_FOLDER, experiment)
@@ -346,7 +346,6 @@ def load_dataframe(experiment_name):
 
 def add_concentration_and_normalizations(df, standard_results, normalization_gene, normalization_sample):
     df_cdna_replicates = pd.DataFrame(df.query('type == "cDNA"'))
-
     # compute ceoncentration from Cq
     for gene, dfg in df_cdna_replicates.groupby('gene'):
         standard_result = standard_results[gene]
